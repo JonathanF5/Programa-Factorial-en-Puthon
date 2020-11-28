@@ -1,11 +1,4 @@
 # Programa-Factorial-en-Puthon
-#Programa que permita ingresar y pedir al usuario por teclado un numero
-
-"""
-Created on Sat Nov 28 12:47:34 2020
-
-@author: Jonathan Calvopiña
-"""
 #Codigo usando la version 3.8 de Python 
 
 def factorial(n):
