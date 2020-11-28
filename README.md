@@ -2,6 +2,7 @@
 #Codigo usando la version 3.8 de Python 
 
 def factorial(n):
+
     if n == 0 or n== 1:
         resultado =1
         
